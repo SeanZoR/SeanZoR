@@ -1,5 +1,8 @@
 ### Hey there 👋
 
+> [!NOTE]
+> Building https://github.com/looqsai 🔎
+
 - 📦 Bridging Product and Engineering
 - 🎯 Leadership in Tech
 - 🤓 Mobile, Full-stack, Blockchain
