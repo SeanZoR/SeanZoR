@@ -1,78 +1,42 @@
-<!-- Banner -->
-<h1 align="center">Sean Katz — AI Engineer & Product Builder</h1>
-<p align="center">
-  Building real-time intelligence systems with LLMs, agents, and automation.
-</p>
+# Sean Katz
+
+**Connecting Humans with Agents**
+
+19 years in tech. Ex-founder (acquired). Now building AI systems and helping teams do the same.
 
 ---
 
-## 🚀 What I'm Building
+### What I'm Working On
 
-### 🔥 **MacroSignal.ai**  
-AI-driven macro-finance intelligence dashboard extracting sentiment, themes, and market positioning from:  
-• analyst transcripts • podcasts • newsletters • reports • macro data  
-Focused on **high-signal summaries**, **trend mapping**, and **real-time monitoring**.
+**Claude Code Ecosystem** — Skills, subagents, and tools for agentic workflows
+- [claude-memento](https://github.com/SeanZoR/claude-memento) — Extract session memories into CLAUDE.md
+- [ralph-pilot](https://github.com/SeanZoR/ralph-pilot) — Planning skill for autonomous agent loops
+- [awesome-claude-code-subagents](https://github.com/SeanZoR/awesome-claude-code-subagents) — 100+ specialized agents
 
-### ⚡ **ihaveto.ai**  
-AI-enablement platform for non-technical teams:  
-• “one agent a day” learning tracks  
-• automation templates  
-• practical LLM workflows  
-• open-source agent experiments  
+**LLM Radar** — MCP Server with daily-updated model info across OpenAI, Anthropic, Google
+[llm-radar.ajents.company](https://llm-radar.ajents.company) | [GitHub](https://github.com/ajentsor/llm-radar)
+
+**MacroSignal.ai** — Multi-agent system for tracking macro analysts. LangGraph, RAG, real-time sentiment.
 
 ---
 
-## 🧩 What I Do
-- LLM agents & multi-tool workflows  
-- Real-time data pipelines for intelligence systems  
-- Cross-provider LLM orchestration  
-- Full-stack + mobile (Python, Node, Kotlin/Android)  
-- Open-source utilities and AI experiments  
+### How I Can Help
+
+Workshops and consulting for tech teams integrating AI agents into how they work—not just what they ship.
+
+- Multi-agent architectures
+- Claude Code workflows
+- MCP server development
+- Process automation with LLMs
 
 ---
 
-## ⭐ Featured Repositories
+### Tech
 
-| Project | Description | Link |
-|--------|-------------|------|
-| **MacroSignal.ai** | Macro-finance intelligence dashboard powered by LLMs | *(private / coming soon)* |
-| **ihaveto.ai** | AI-enablement platform with agent workflows | *(private / coming soon)* |
-| **llm-dependency-bot** | Autonomous agent that manages and merges dependency PRs | https://github.com/SeanZoR/llm-dependency-bot |
-| **looqs-android** | Accessible AI assistant for visually impaired users | https://github.com/looqsai/looqs-android |
+Python, TypeScript, Kotlin | Claude, OpenAI, LangGraph | FastAPI, Supabase, Docker
 
 ---
 
-## 🛠️ Tech & Tools
+### Connect
 
-**Languages:** Python • TypeScript/Node • Kotlin • Bash  
-**AI Stack:** OpenAI • Anthropic • LangChain • LangGraph • multimodal pipelines  
-**Infra:** Docker • GitHub Actions • FastAPI • Supabase • Postgres  
-**Mobile:** Android/Kotlin, Jetpack, modern architecture  
-
-<p align="left">
-  <!-- Badges -->
-  <img src="https://img.shields.io/badge/AI%20Engineer-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Product%20Builder-4B9CD3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20Agents-6A5ACD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Builder-228B22?style=for-the-badge" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SeanZoR&show_icons=true&theme=dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SeanZoR&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanZoR&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
-## 📬 Connect
-- 🌐 Website: **https://sean8.com**  
-- 🐦 Twitter: **https://twitter.com/_sean8**  
-- 🧵 GitHub: **@SeanZoR**
+[sean8.com](https://sean8.com) · [Twitter](https://twitter.com/_sean8) · [LinkedIn](https://linkedin.com/in/seankatz)
