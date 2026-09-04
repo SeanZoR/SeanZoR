@@ -1,4 +1,4 @@
-![I retired into a busier life](https://raw.githubusercontent.com/SeanZoR/SeanZoR/main/github-readme.png)
+![My life is my free time](https://raw.githubusercontent.com/SeanZoR/SeanZoR/main/github-readme.png)
 
 # Sean Katz
 
