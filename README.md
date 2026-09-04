@@ -1,4 +1,4 @@
-![My life is my free time](https://raw.githubusercontent.com/SeanZoR/SeanZoR/main/github-readme.png)
+![Retired, with agents.](https://raw.githubusercontent.com/SeanZoR/SeanZoR/main/github-readme.png)
 
 # Sean Katz
 
