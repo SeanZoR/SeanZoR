@@ -1,4 +1,4 @@
-![Retired, with agents.](https://raw.githubusercontent.com/SeanZoR/SeanZoR/main/github-readme.png)
+![Agents do the work. I do the rest.](https://raw.githubusercontent.com/SeanZoR/SeanZoR/main/github-readme.png)
 
 # Sean Katz
 
