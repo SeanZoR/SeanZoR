@@ -2,7 +2,7 @@
 
 # Sean Katz
 
-Twenty years in tech, one exit, then I stopped working. Sort of. These days a bunch of agents do the work and I mostly supervise.
+Twenty years in tech, one exit, one island. A bunch of agents build, file and answer the phone. I mostly supervise.
 
 The agents and what they run → [sean8.com](https://sean8.com)
 
