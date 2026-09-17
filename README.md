@@ -14,9 +14,8 @@ The agents and what they run → [sean8.com](https://sean8.com)
 - [claude-speed-reader](https://github.com/SeanZoR/claude-speed-reader) — RSVP speed reading for Claude Code
 - [openclaw-metrics](https://github.com/SeanZoR/openclaw-metrics) — Zero-dep Prometheus metrics for OpenClaw gateways
 - [write](https://github.com/SeanZoR/write) — Draft in Notion, auto-publish to social
-- [looqs-android](https://github.com/AcuLab-Developers/looqs-android) — Accessibility AI for Android (archived)
+- [looqs-android](https://github.com/looqsai/looqs-android) — Accessibility AI for Android (archived)
 
 ---
 
 Say hi: [X](https://x.com/_sean8) · [LinkedIn](https://linkedin.com/in/seankatz)
-
